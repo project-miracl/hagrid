@@ -1,0 +1,34 @@
+cff-version: "1.2.0"
+date-released: 2023-07
+message: "If you use our work, please cite it using these metadata."
+title: "{HAGRID}: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution"
+url: "https://github.com/project-miracl/hagrid"
+authors:
+  - family-names: Kamalloo
+    given-names: Ehsan
+  - family-names: Jafari
+    given-names: Aref
+  - family-names: Zhang
+    given-names: Xinyu
+  - family-names: Thakur
+    given-names: Nandan
+  - family-names: Lin
+    given-names: Jimmy
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Kamalloo
+    given-names: Ehsan
+  - family-names: Jafari
+    given-names: Aref
+  - family-names: Zhang
+    given-names: Xinyu
+  - family-names: Thakur
+    given-names: Nandan
+  - family-names: Lin
+    given-names: Jimmy
+  month: 07
+  title: "{HAGRID}: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution"
+  year: 2023
+  url:  "https://arxiv.org/abs/2307.xxxxx"
+  journal: "arXiv preprint arXiv:2307.xxxxx"

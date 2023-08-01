@@ -10,8 +10,8 @@
     <a href="https://github.com/beir-cellar/beir/blob/master/LICENSE">
         <img alt="License" src="https://img.shields.io/github/license/project-miracl/hagrid.svg?color=green">
     </a>
-    <a href="https://arxiv.org/abs/2307.xxxxx">
-        <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2307.xxxx-b31b1b.svg">
+    <a href="https://arxiv.org/abs/2307.16883">
+        <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2307.16883-b31b1b.svg">
     </a>
 </p>
 
@@ -67,6 +67,6 @@ If you find this dataset and repository helpful, please cite HAGRID as follows:
       title={{HAGRID}: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution}, 
       author={Ehsan Kamalloo and Aref Jafari and Xinyu Zhang and Nandan Thakur and Jimmy Lin},
       year={2023},
-      journal={arXiv:2307.xxxxx},
+      journal={arXiv:2307.16883},
 }
 ```

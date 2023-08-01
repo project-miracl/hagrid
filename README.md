@@ -5,10 +5,10 @@
 
 <p align="center">
     <a href="https://www.python.org/">
-            <img alt="Build" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?color=purple">
+        <img alt="Build" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?color=purple">
     </a>
-    <a href="https://github.com/beir-cellar/beir/blob/master/LICENSE">
-        <img alt="License" src="https://img.shields.io/github/license/project-miracl/hagrid.svg?color=green">
+    <a href="https://github.com/project-miracl/hagrid/blob/master/LICENSE">
+        <img alt="License" src="https://img.shields.io/github/license/project-miracl/hagrid">
     </a>
     <a href="https://arxiv.org/abs/2307.16883">
         <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2307.16883-b31b1b.svg">

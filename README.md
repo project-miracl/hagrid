@@ -34,7 +34,7 @@ We then ask human annotators to judge the explanations based on two criteria:
 
 ## Data
 
-HAGRID is hosted on Huggingface 🤗: [link](https://huggingface.co/datasets/miracl/hagrid).
+HAGRID is hosted on Hugging Face 🤗: [link](https://huggingface.co/datasets/miracl/hagrid).
 
 ```python
 import datasets
